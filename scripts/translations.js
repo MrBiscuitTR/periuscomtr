@@ -61,7 +61,7 @@ const translations = {
 
         // Approach
         approach_title: "Our Approach",
-        approach_text: "We work as an executive partner to help organizations adopt technology and AI with governance, control, and measurable results.<br><br>We start by clarifying ownership, decision rights, and success metrics—then design an operating model and governance cadence that makes progress visible and manageable. We translate priorities into a practical roadmap and stay involved through execution: reviewing KPIs, closing gaps, building a continuous improvement backlog, and ensuring adoption is controlled—not ad-hoc.",
+        approach_text: "We work as an executive partner to help organizations adopt technology and AI with governance, control, and measurable results. <br> <br>We start by clarifying ownership, decision rights, and success metrics—then design an operating model and governance cadence that makes progress visible and manageable.​ We translate priorities into a practical roadmap and stay involved through execution: reviewing KPIs, closing gaps, building a continuous improvement backlog, and ensuring adoption is controlled—not ad-hoc. <br> <br> The goal is always the same: sustainable outcomes, not presentations and slideware.",
         approach_cta_text: "For executive conversations on technology strategy, governance, operating models, and AI adoption:",
         approach_cta_btn: "Let's Talk",
         // Footer
@@ -130,7 +130,7 @@ const translations = {
 
         // Approach
         approach_title: "Yaklaşımımız",
-        approach_text: "Kuruluşların teknoloji ve yapay zekâyı yönetişim, kontrol ve ölçülebilir sonuçlarla benimsemelerine yardımcı olmak için yönetici ortağı olarak çalışıyoruz.<br><br>Öncelikle sahiplik, karar hakları ve başarı ölçütlerini netleştiriyoruz—ardından ilerlemeyi görünür ve yönetilebilir kılan bir işletim modeli ve yönetişim ritmi tasarlıyoruz. Öncelikleri pratik bir yol haritasına çeviriyor ve uygulama boyunca dahil oluyoruz: KPI'ları gözden geçiriyor, boşlukları kapatıyor, sürekli iyileştirme listesi oluşturuyor ve benimsemenin rastgele değil kontrollü olmasını sağlıyoruz.",
+        approach_text: "Kuruluşların teknoloji ve yapay zekâyı güçlü yönetişim, kontrol mekanizmaları ve ölçülebilir iş sonuçlarıyla hayata geçirmelerine destek olan bir icra ortağı olarak çalışıyoruz. <br> <br>Sürece; sahiplik yapısını, karar alma yetkilerini ve başarı metriklerini netleştirerek başlarız. Ardından, ilerlemeyi şeffaf ve yönetilebilir kılan bir operasyonel model ve yönetişim ritmi tasarlarız. Stratejik öncelikleri uygulanabilir bir yol haritasına dönüştürür ve icra boyunca sürecin içinde kalırız: KPI’ları düzenli olarak değerlendirir, sapmaları kapatır, sürekli iyileştirme için yapılandırılmış bir backlog oluşturur ve benimsemenin dağınık değil, kontrollü ve disiplinli şekilde gerçekleşmesini güvence altına alırız. <br> <br>Nihai hedefimiz nettir: sunumlar ve slaytlar değil, kalıcı ve sürdürülebilir iş çıktıları.",
         approach_cta_text: "Teknoloji stratejisi, yönetişim, işletim modelleri ve yapay zekâ benimsemesi üzerine yönetici görüşmeleri için:",
         approach_cta_btn: "İletişime Geçin",
         // Footer
