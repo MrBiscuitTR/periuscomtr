@@ -1,14 +1,16 @@
 # periuscomtr
 ## Perius Technology Executive Advisory Business Website, hosted on GitHub Pages. Built by Cagan Efe Calidag.
 ### Technologies used
--HTML, CSS, JavaScript
--i18n using /scripts/translations.js
+- HTML, CSS, JavaScript
+- i18n using /scripts/translations.js
 thats all.
 
 ### RUNNING LOCALLY TO TEST
--Install the Live Server extension on VS Code
--Right click on index.html and select "Open with Live Server"
-it will open immediately on the browser and get updated as you save the file.
+1. Install the Live Server extension on VS Code
+2. Open index.html
+3. - Right click on the code in index.html and select "Open with Live Server"
+   - It will open immediately on the browser
+   - The preview will get updated as you modify and save the file.
 
 ## Manual:
 
